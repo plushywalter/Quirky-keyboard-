@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuirkBoard</string>
+    <string name="ime_name">QuirkBoard Keyboard</string>
+    <string name="ime_settings">QuirkBoard Settings</string>
+</resources>
